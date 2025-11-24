@@ -19,7 +19,7 @@ Aqui organizo exercícios, anotações e experimentos realizados durante cursos 
 
 | Curso | Conteúdo | Status |
 |-------|----------|--------|
-| **IA Generativa Para Todos** | Fundamentos, conceitos e aplicações de IA generativa | 🔄 Em progresso |
+| **IA Generativa Para Todos** | Fundamentos, conceitos e aplicações de IA generativa | ✅ Concluído |
 | **IA Generativa com Grandes Modelos de Linguagem** | Implementação, APIs e prompt engineering | 🔄 Em progresso |
 
 > Este repositório contém exercícios, anotações e experimentos desenvolvidos a partir desses cursos, com adaptações pessoais.
